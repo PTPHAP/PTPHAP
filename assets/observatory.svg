@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
-  <title id="title">PTPHAP · Sky Island Observatory</title>
-  <desc id="desc">Open source voice and world systems, built with Rust, TypeScript and Java.</desc>
+  <title id="title">PTPHAP · WebTS</title>
+  <desc id="desc">Self-hosted TeamSpeak web client, built with Rust, React and TypeScript.</desc>
   <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#13152b"/><stop offset="1" stop-color="#30234f"/></linearGradient></defs>
   <rect width="1200" height="240" rx="24" fill="url(#bg)"/>
   <g fill="#b8c3ff"><circle cx="80" cy="62" r="2"/><circle cx="176" cy="186" r="1.5"/><circle cx="290" cy="34" r="1.5"/><circle cx="938" cy="60" r="2"/><circle cx="1105" cy="158" r="2"/></g>
   <g fill="none" stroke="#b497f5" opacity=".28"><ellipse cx="600" cy="117" rx="493" ry="87"/><ellipse cx="600" cy="117" rx="466" ry="101"/></g>
   <g text-anchor="middle" font-family="Segoe UI,Arial,sans-serif">
     <text x="600" y="102" fill="#f7f4ff" font-size="48" font-weight="700" letter-spacing="6">PTPHAP</text>
-    <text x="600" y="141" fill="#c9bcf1" font-size="17" letter-spacing="3">SKY ISLAND OBSERVATORY</text>
-    <text x="600" y="190" fill="#c1cce9" font-size="13" letter-spacing="2">SELF-HOSTED VOICE / WORLD SYSTEMS / OPEN SOURCE</text>
+    <text x="600" y="141" fill="#c9bcf1" font-size="17" letter-spacing="3">WEBTS / TEAMSPEAK IN YOUR BROWSER</text>
+    <text x="600" y="190" fill="#c1cce9" font-size="13" letter-spacing="2">SELF-HOSTED VOICE / REAL IDENTITIES / OPEN SOURCE</text>
   </g>
 </svg>
